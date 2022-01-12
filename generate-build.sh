@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-res_root="overlay/packages/apps/Launcher3/res"
+res_root="overlay/packages/apps/FluidLauncher/res"
 
 cd "$(dirname "$0")"
 
